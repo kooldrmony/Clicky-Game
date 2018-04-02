@@ -1,0 +1,12 @@
+.jumbotron {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  background: yellow;
+  margin-bottom: 50px;
+  opacity: 0.0;
+}
+
+.jumbotron:hover {
+    opacity: 1.0;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Lisa",
+    "image":
+      "https://nicolasgabrieldezero.files.wordpress.com/2014/10/lisa.jpg?w=980"
+  },
+  {
+    "id": 2,
+    "name": "Homer",
+    "image":
+      "https://1ri26s33ly0e2m3ovy3we3c2-wpengine.netdna-ssl.com/wp-content/uploads/2014/02/the-simpsons-homer-160cms-lifesize-cardboard-cutout-product-image.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bart",
+    "image":
+      "https://cdn.images.dailystar.co.uk/dynamic/117/photos/314000/Bart-simpson-294314.jpg"
+  },
+   {
+    "id": 4,
+    "name": "Marge",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStM57dc3REwNjG9uGBoZYFyVNFlx_VvDfu9VEOlmRYLvj5NL1"
+  },
+    {
+    "id": 5,
+    "name": "Maggie",
+    "image":
+      "https://static.simpsonswiki.com/images/thumb/4/45/Maggie_Simpson_Home_Alone.jpg/200px-Maggie_Simpson_Home_Alone.jpg"
+  },
+    {
+    "id": 6,
+    "name": "Barney",
+    "image":
+      "https://vignette.wikia.nocookie.net/scratchpad/images/b/b5/BarneyGumble.png/revision/latest?cb=20130313114535"
+  },
+    {
+    "id": 7,
+    "name": "Mr. Burns",
+    "image":
+      "https://img.washingtonpost.com/rf/image_1484w/WashingtonPost/Content/Blogs/comic-riffs/StandingArt/mr-burns-picture.jpg?uuid=7vD_Wu8DEeCE9vYhpZ5Sbg"
+  },
+    {
+    "id": 8,
+    "name": "Flanders",
+    "image":
+      "https://thedistinctdot.files.wordpress.com/2013/08/ned-flanders.jpg?w=240&h=240"
+  },
+     {
+    "id": 9,
+    "name": "Krusty the Clown",
+    "image":
+      "https://fantasyathleticsluckydip.files.wordpress.com/2015/08/krustie.jpg"
+  },
+     {
+    "id": 10,
+    "name": "Apu",
+    "image":
+      "https://i.pinimg.com/originals/43/89/0b/43890b78016cb2b7ef2b72ae51906426.jpg"
+  },
+     {
+    "id": 11,
+    "name": "Smithers",
+    "image":
+      "http://i.dailymail.co.uk/i/pix/2014/11/18/23401DFE00000578-0-image-8_1416278597856.jpg"
+  },
+     {
+    "id": 12,
+    "name": "Sideshow Bob",
+    "image":
+      "https://i.pinimg.com/originals/e7/c7/5b/e7c75ba4cd8bb2e04113eb282422b92b.jpg"
+  }
+]
