@@ -3,14 +3,13 @@ import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import Character from "./components/Character";
 import characters from "./characters.json";
-import Nav from "./components/Navbar";
+// import Nav from "./components/Navbar";
 import Footer from "./components/Footer";
 // import Container from "./components/Container";
 
 const App = () => (
 
   <Wrapper>
-    <Nav />
     <Title />
     <Character
       name={characters[0].name}
